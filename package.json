@@ -1,0 +1,8 @@
+{
+  "name": "places-app",
+  "version": "0.0.1",
+  "description": "find places via google api",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
